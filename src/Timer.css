@@ -1,0 +1,29 @@
+.Timer {
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	gap: 10px;
+	/* border: 1px solid orangered; */
+}
+
+.timer {
+	border: 1px solid orangered;
+	border-radius: 30px;
+	width: 25%;
+}
+#timer-left {
+	color: orangered;
+}
+
+button {
+	padding: 10px 20px;
+	border: none;
+	border-radius: 12px;
+}
+
+.labels {
+	display: flex;
+	gap: 30px;
+}

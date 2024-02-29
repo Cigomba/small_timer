@@ -1,7 +1,7 @@
 # Small "Pomodoro" Timer
 
 Basic timer made with html, css, javascript, and react.
-You can check out the calculator here : [Small Timer](https://cigomba.github.io/small-timer)
+You can check out the calculator here : [Small Timer](https://cigomba.github.io/small_timer)
 
 ## Acknowledgements
 

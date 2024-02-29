@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/small_timer/static/css/main.1a388256.css",
+    "main.js": "/small_timer/static/js/main.7d58055c.js",
+    "static/media/wobble-synth-keys-wet-dynamic-loop_130bpm_A_minor.wav": "/small_timer/static/media/wobble-synth-keys-wet-dynamic-loop_130bpm_A_minor.2f1042a0bb9974c8425a.wav",
+    "index.html": "/small_timer/index.html",
+    "main.1a388256.css.map": "/small_timer/static/css/main.1a388256.css.map",
+    "main.7d58055c.js.map": "/small_timer/static/js/main.7d58055c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a388256.css",
+    "static/js/main.7d58055c.js"
+  ]
+}
